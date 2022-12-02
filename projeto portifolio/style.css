@@ -13,7 +13,7 @@
 }
 .dark-theme{
     --bacground-color: #000;
-    --text-color: #999;
+    --text-color: rgb(105, 103, 103);
     --title-color: #fff;
 }
 body{
@@ -52,8 +52,8 @@ nav ul li a {
     font-weight: 500;
 }
 .toggle-btn{
-    background: #4864ff;
-    color: #fff;
+    background: #ccff33;
+    color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -82,8 +82,8 @@ nav ul li a {
     font-style: italic;
 }
 .content a{
-    background: #4864ff;
-    color: #fff;
+    background: #ccff33;
+    color: #000;
     padding: 15px 70px;
     border-radius: 30px;
     cursor: pointer;
